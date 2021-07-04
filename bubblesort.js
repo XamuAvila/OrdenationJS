@@ -4,6 +4,8 @@ var arrayOfIntegers = new Array(5, 3, 4, 2, 6, 9, 7, 8, 1)
 // Entries: Array and the Length of it
 console.log('Before: ', arrayOfIntegers.toString())
 sort(arrayOfIntegers, arrayOfIntegers.length)
+console.log('After: ', arrayOfIntegers.toString())
+
 function sort(arr, length) {
     for (let j = 0; j <= length; j++) { /* n*/
         for (let i = 0; i < length; i++) { /* n */
@@ -15,5 +17,4 @@ function sort(arr, length) {
         }
     }
 }
-console.log('After: ', arrayOfIntegers.toString())
 // n²
