@@ -1,0 +1,19 @@
+{
+  "name": "ordenationjs",
+  "version": "1.0.0",
+  "description": "* Function to be called in every method will be __sort__",
+  "main": "bubblesort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XamuAvila/OrdenationJS.git"
+  },
+  "author": "Samuel Avila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XamuAvila/OrdenationJS/issues"
+  },
+  "homepage": "https://github.com/XamuAvila/OrdenationJS#readme"
+}
